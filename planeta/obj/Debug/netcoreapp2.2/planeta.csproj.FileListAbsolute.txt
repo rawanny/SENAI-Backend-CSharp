@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\bin\Debug\netcoreapp2.2\planeta.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\bin\Debug\netcoreapp2.2\planeta.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\bin\Debug\netcoreapp2.2\planeta.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\bin\Debug\netcoreapp2.2\planeta.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\bin\Debug\netcoreapp2.2\planeta.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\planeta\obj\Debug\netcoreapp2.2\planeta.pdb

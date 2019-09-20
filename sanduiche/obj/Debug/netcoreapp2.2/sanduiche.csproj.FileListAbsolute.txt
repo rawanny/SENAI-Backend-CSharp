@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\bin\Debug\netcoreapp2.2\sanduiche.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\bin\Debug\netcoreapp2.2\sanduiche.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\bin\Debug\netcoreapp2.2\sanduiche.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\bin\Debug\netcoreapp2.2\sanduiche.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\bin\Debug\netcoreapp2.2\sanduiche.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\sanduiche\obj\Debug\netcoreapp2.2\sanduiche.pdb
